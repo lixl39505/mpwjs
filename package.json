@@ -15,7 +15,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/pixelsLee/mpw.git"
+        "url": "https://github.com/lixl39505/mpw.git"
     },
     "keywords": [
         "wx",
@@ -23,11 +23,7 @@
         "store",
         "mixin"
     ],
-    "author": "pixelsLee <pixelslee@foxmail.com>",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/pixelsLee/mpw/issues"
-    },
     "dependencies": {
         "es-sharp": "^1.3.1",
         "miniprogram-computed": "^4.1.2"
